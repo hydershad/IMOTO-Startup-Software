@@ -1,4 +1,4 @@
-# imoto-hardware
+# imoto hardware updates!
 
 This is the Arduino .ino software file used to control the in-car unit Adafruit MetroMini ATmega328 microcontroller.
 This software is designed for controllers and hardware that are pin-to-pin matches with the Arduino Uno R3.
