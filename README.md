@@ -1,4 +1,11 @@
-# imoto hardware updates!
+# Imoto
+
+See pictures folder
+
+Imoto is a peer-to-peer carrental platform enabling owners to rent out their vehicles to users without any complex or expensive retrofits to their vehicle. Users will be able to find cars that suit their needs and access the vehicles without having to physically meet up with the owner. This allows for easier access for the user and multiple rentals of the owner's vehicle during a single time frame.
+
+
+# Imoto hardware updates!
 
 This is the Arduino .ino software file used to control the in-car unit Adafruit MetroMini ATmega328 microcontroller.
 This software is designed for controllers and hardware that are pin-to-pin matches with the Arduino Uno R3.
