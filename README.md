@@ -20,7 +20,7 @@ The SIM5320TEST code currently supports the following hardware functionality:
   that will be used in the wheel unit to verify keys have been locked. This is currently for testing only
   and will be moved to the wheel unit during the final design process
   
-  -HM-10 BLE 4.0 SoftwareSerial to communicate with wheel unit, HOWEVER NO FUNCTIONS ARE IMPLEMENTED YET due to lack
-  of second HM-10 module
+  -HM-10 BLE 4.0 SoftwareSerial to communicate with wheel unit, additional functionality has been added for ios ble serial communication 
+  for manual control
   
   -indicator LED and peizio buzzer alarm
